@@ -6,7 +6,6 @@ A simple web app built with PHP Laravel to convert HEIC images to JPG format. Fa
 - Convert HEIC to JPG
 - Clean and simple UI
 - Secure image handling with Laravel
-- Uses [Intervention Image](http://image.intervention.io/)
 
 ## 🚀 Getting Started
 
